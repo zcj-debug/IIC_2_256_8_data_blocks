@@ -4,7 +4,7 @@
     up file         : IIC_slot_top.v
     reversion       : 
         v1.0 : 2022-8-16 13:50:19
-    author          : 张宸君
+    author          : 张某某
 \*========================================*/
 
 module IIC (
