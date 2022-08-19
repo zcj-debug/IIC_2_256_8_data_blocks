@@ -4,7 +4,7 @@
   up file         : 
   reversion       : 
       v1.0 : 2022-7-27 18:49:34
-  author          : 张宸君
+  author          : 张某某
 \*========================================*/
 
 module display #(parameter  MS_1= 16'd50000)(
