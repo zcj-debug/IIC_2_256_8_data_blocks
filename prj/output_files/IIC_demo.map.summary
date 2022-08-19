@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 19 10:54:05 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : IIC_demo
+Top-level Entity Name : IIC_demo_top
+Family : Cyclone IV E
+Total logic elements : 4,233
+    Total combinational functions : 2,080
+    Dedicated logic registers : 2,300
+Total registers : 2300
+Total pins : 18
+Total virtual pins : 0
+Total memory bits : 4,352
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

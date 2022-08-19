@@ -1,0 +1,16 @@
+Fitter Status : Successful - Fri Aug 19 10:54:29 2022
+Quartus Prime Version : 18.1.0 Build 625 09/12/2018 SJ Standard Edition
+Revision Name : IIC_demo
+Top-level Entity Name : IIC_demo_top
+Family : Cyclone IV E
+Device : EP4CE6F17C8
+Timing Models : Final
+Total logic elements : 3,079 / 6,272 ( 49 % )
+    Total combinational functions : 2,085 / 6,272 ( 33 % )
+    Dedicated logic registers : 2,300 / 6,272 ( 37 % )
+Total registers : 2300
+Total pins : 18 / 180 ( 10 % )
+Total virtual pins : 0
+Total memory bits : 4,352 / 276,480 ( 2 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
